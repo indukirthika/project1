@@ -1,0 +1,35 @@
+{
+  "name": "Graxpo",
+  "authors": [
+    "varun <samvarun@gmail.com>"
+  ],
+  "description": "Bootstrap Application",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "bootstrap",
+    "html5",
+    "css3"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
